@@ -1,0 +1,312 @@
+D:\DataStack\DataStack\bin\Debug\DataStack.exe.config
+D:\DataStack\DataStack\bin\Debug\DataStack.exe.manifest
+D:\DataStack\DataStack\bin\Debug\DataStack.application
+D:\DataStack\DataStack\bin\Debug\DataStack.exe
+D:\DataStack\DataStack\bin\Debug\DataStack.pdb
+D:\DataStack\DataStack\bin\Debug\Common.Logging.Core.dll
+D:\DataStack\DataStack\bin\Debug\Common.Logging.dll
+D:\DataStack\DataStack\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DataStack\DataStack\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\DataStack\DataStack\bin\Debug\IdentityModel.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Options.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DataStack\DataStack\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\DataStack\DataStack\bin\Debug\Newtonsoft.Json.dll
+D:\DataStack\DataStack\bin\Debug\NPOI.dll
+D:\DataStack\DataStack\bin\Debug\NPOI.OOXML.dll
+D:\DataStack\DataStack\bin\Debug\NPOI.OpenXml4Net.dll
+D:\DataStack\DataStack\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\DataStack\DataStack\bin\Debug\System.Buffers.dll
+D:\DataStack\DataStack\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DataStack\DataStack\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DataStack\DataStack\bin\Debug\System.IO.Packaging.dll
+D:\DataStack\DataStack\bin\Debug\System.Memory.dll
+D:\DataStack\DataStack\bin\Debug\System.Numerics.Vectors.dll
+D:\DataStack\DataStack\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DataStack\DataStack\bin\Debug\System.Text.Encodings.Web.dll
+D:\DataStack\DataStack\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DataStack\DataStack\bin\Debug\Common.Logging.pdb
+D:\DataStack\DataStack\bin\Debug\Common.Logging.xml
+D:\DataStack\DataStack\bin\Debug\Common.Logging.Core.pdb
+D:\DataStack\DataStack\bin\Debug\Common.Logging.Core.xml
+D:\DataStack\DataStack\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DataStack\DataStack\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\DataStack\DataStack\bin\Debug\IdentityModel.pdb
+D:\DataStack\DataStack\bin\Debug\IdentityModel.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Options.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\DataStack\DataStack\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\DataStack\DataStack\bin\Debug\Newtonsoft.Json.xml
+D:\DataStack\DataStack\bin\Debug\System.Buffers.xml
+D:\DataStack\DataStack\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DataStack\DataStack\bin\Debug\System.Memory.xml
+D:\DataStack\DataStack\bin\Debug\System.Numerics.Vectors.xml
+D:\DataStack\DataStack\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DataStack\DataStack\bin\Debug\System.Text.Encodings.Web.xml
+D:\DataStack\DataStack\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DataStack\DataStack\obj\Debug\DataStack.Form1.resources
+D:\DataStack\DataStack\obj\Debug\DataStack.Properties.Resources.resources
+D:\DataStack\DataStack\obj\Debug\DataStack.csproj.GenerateResource.cache
+D:\DataStack\DataStack\obj\Debug\DataStack.exe.manifest
+D:\DataStack\DataStack\obj\Debug\DataStack.application
+D:\DataStack\DataStack\obj\Debug\DataStack.csproj.CopyComplete
+D:\DataStack\DataStack\obj\Debug\DataStack.exe
+D:\DataStack\DataStack\obj\Debug\DataStack.pdb
+D:\DataStack\DataStack\bin\Debug\Template.xlsx
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.csprojAssemblyReference.cache
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.Form1.resources
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.Properties.Resources.resources
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.csproj.GenerateResource.cache
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.exe
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Template.xlsx
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DataStack.exe.config
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DataStack.exe.manifest
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DataStack.application
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DataStack.exe
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DataStack.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Common.Logging.Core.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Common.Logging.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\IdentityModel.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Newtonsoft.Json.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\NPOI.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\NPOI.OOXML.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Buffers.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.IO.Packaging.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Memory.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Numerics.Vectors.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Text.Encodings.Web.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Common.Logging.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Common.Logging.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Common.Logging.Core.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Common.Logging.Core.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\IdentityModel.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\IdentityModel.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\Newtonsoft.Json.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Buffers.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Memory.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Numerics.Vectors.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Text.Encodings.Web.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.exe.manifest
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.application
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.csproj.CopyComplete
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Template.xlsx
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DataStack.exe.config
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DataStack.exe.manifest
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DataStack.application
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DataStack.exe
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DataStack.pdb
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Common.Logging.Core.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Common.Logging.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\IdentityModel.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\NPOI.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\NPOI.OOXML.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Buffers.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.IO.Packaging.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Memory.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Common.Logging.pdb
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Common.Logging.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Common.Logging.Core.pdb
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Common.Logging.Core.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\IdentityModel.pdb
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\IdentityModel.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Buffers.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Memory.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.csprojAssemblyReference.cache
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.Form1.resources
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.Properties.Resources.resources
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.csproj.GenerateResource.cache
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.exe.manifest
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.application
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.csproj.CopyComplete
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.exe
+C:\Users\ayslan.ebling\Desktop\Teste\DataStack (Teste)\DataStack\obj\Debug\DataStack.pdb
+D:\Codigos-em-CSharp-e-Java\C#\C#\DataStack Pasta C#\DataStack\obj\Debug\DataStack.csproj.CoreCompileInputs.cache
